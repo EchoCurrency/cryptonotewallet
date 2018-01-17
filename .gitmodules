@@ -1,0 +1,4 @@
+[submodule "echo-currency"]
+ 	path = cryptonote	
+  url = https://github.com/EchoCurrency/echo-currency
+  	ignore = all		  	ignore = all
